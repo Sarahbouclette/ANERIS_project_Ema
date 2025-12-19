@@ -2,16 +2,16 @@
 
 To train and evaluate the CNN models we used the MLflow platform to streamline our machine learning experiment. 
 
---ANERIS project Ema
---------------|--Data
---------------|--Outputs
------------------|--dataset_split
------------------|--datasets
------------------|--output_training
------------------|--output_prediction
---------------|--Script
---------------conda_classification_env.yml
---------------README.md
+|-ANERIS project Ema
+|--Data
+|--Outputs
+|----dataset_split
+|----datasets
+|----output_training
+|----output_prediction
+|--Script
+conda_classification_env.yml
+README.md
                 
 
 ## Set up MLFLOW
