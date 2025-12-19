@@ -1,0 +1,13 @@
+
+
+# ML / experiments
+mlruns/
+Script/mlruns/
+
+# Jupyter
+.ipynb_checkpoints/
+Script/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
